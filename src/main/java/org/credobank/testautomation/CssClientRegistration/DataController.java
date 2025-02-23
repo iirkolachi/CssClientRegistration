@@ -6,7 +6,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.Random;
 
-public class DataControllerCreateUser {
+public class DataController {
     String query_checkPersonalNumber = """
             IF EXISTS (
                 SELECT TOP 1 *

@@ -1,6 +1,6 @@
-package org.credobank.testautomation.CssClientRegistration.Models;
+package org.credobank.testautomation.CssClientRegistration.Models.CreateUser;
 
-import io.qameta.allure.internal.shadowed.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.ToString;
 import lombok.Getter;
 import lombok.Setter;
