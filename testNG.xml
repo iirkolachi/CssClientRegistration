@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="CssClientRegistration" parallel="tests" thread-count="2">
+    <test name="">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="">
+            </class>
+        </classes>
+    </test>
+    <test name="">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="">
+            </class>
+        </classes>
+    </test>
+</suite>
